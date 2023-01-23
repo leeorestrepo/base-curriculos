@@ -9,7 +9,7 @@ Ferramenta criada para obter uma base de dados de curriculum dos candidatos às 
 | :rocket: URL         | http://www.brabusrh.com.br/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/vDnlDTN)
+![image](https://user-images.githubusercontent.com/17009058/214096566-b2a8815c-7023-4382-8225-ca028be07eee.png)#vitrinedev
 
 ## Detalhes do projeto
 
