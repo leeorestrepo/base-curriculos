@@ -4,7 +4,7 @@ Ferramenta criada para obter uma base de dados de curriculum dos candidatos às 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Brabus RH**
+| :sparkles: Nome        | **Brabus RH - Base Candidatos**
 | :label: Tecnologias | php, html, javascript, mysql (tecnologias utilizadas)
 | :rocket: URL         | http://www.brabusrh.com.br/
 
